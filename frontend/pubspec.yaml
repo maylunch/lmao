@@ -1,0 +1,15 @@
+name: lmao_app
+description: AI Global Chinese Portfolio App
+version: 1.0.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.0
+  go_router: ^13.2.0
+
+flutter:
+  uses-material-design: true
